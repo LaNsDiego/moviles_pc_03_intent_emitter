@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Emisor</string>
+    <string name="str_form_title">Formulario de envio</string>
+    <string name="str_name">Coloque su nombre porfavor</string>
+    <string name="str_field_name">Nombre :</string>
+    <string name="str_field_last_name">Apellido :</string>
+    <string name="str_last_name">Coloque su apellido porfavor</string>
+    <string name="str_field_phone_number">Celular :</string>
+    <string name="str_phone_number">Coloque su número de celular porfavor</string>
+    <string name="str_field_address">Dirección :</string>
+    <string name="str_btn_send_to_receiver_app">enviar datos</string>
+    <string name="str_fiel_student_code">Coloque su codigo de estudiante</string>
+    <string name="str_student_code">Coloque su código de estudiante</string>
+    <string name="str_content_description_img_camera">imagen capturada</string>
+    <string name="str_btn_take_photo">tomar foto</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
